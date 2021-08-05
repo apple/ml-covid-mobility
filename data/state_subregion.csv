@@ -1,0 +1,52 @@
+state,subregion,geo_value
+Alabama,East_South_Central,al
+Alaska,Pacific,ak
+Arizona,Mountain,az
+Arkansas,West_South_Central,ar
+California,Pacific,ca
+Colorado,Mountain,co
+Connecticut,New_England,ct
+Delaware,South_Atlantic,de
+District of Columbia,South_Atlantic,dc
+Florida,South_Atlantic,fl
+Georgia,South_Atlantic,ga
+Hawaii,Pacific,hi
+Idaho,Mountain,id
+Illinois,East_North_Central,il
+Indiana,East_North_Central,in
+Iowa,West_North_Central,ia
+Kansas,West_North_Central,ks
+Kentucky,East_South_Central,ky
+Louisiana,West_South_Central,la
+Maine,New_England,me
+Maryland,South_Atlantic,md
+Massachusetts,New_England,ma
+Michigan,East_North_Central,mi
+Minnesota,West_North_Central,mn
+Mississippi,East_South_Central,ms
+Missouri,West_North_Central,mo
+Montana,Mountain,mt
+Nebraska,West_North_Central,ne
+Nevada,Mountain,nv
+New Hampshire,New_England,nh
+New Jersey,Mid_Atlantic,nj
+New Mexico,Mountain,nm
+New York,Mid_Atlantic,ny
+North Carolina,South_Atlantic,nc
+North Dakota,West_North_Central,nd
+Ohio,East_North_Central,oh
+Oklahoma,West_South_Central,ok
+Oregon,Pacific,or
+Pennsylvania,Mid_Atlantic,pa
+Rhode Island,New_England,ri
+South Carolina,South_Atlantic,sc
+South Dakota,West_North_Central,sd
+Tennessee,East_South_Central,tn
+Texas,West_South_Central,tx
+Utah,Mountain,ut
+Vermont,New_England,vt
+Virginia,South_Atlantic,va
+Washington,Pacific,wa
+West Virginia,South_Atlantic,wv
+Wisconsin,East_North_Central,wi
+Wyoming,Mountain,wy
